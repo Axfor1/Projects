@@ -1,0 +1,17 @@
+sort1 uses: Bubble Sort
+Random 50000: 7.535s
+sort1 50000: 0.370s
+
+How do you know?: There is a noticeable difference between the random50000 and sort 50000
+
+sort2 uses: MergeSort
+Random 50000: 0.450s
+sort2 50000: 0.504s
+
+How do you know?: The time taken for sort2 is the shortest
+
+sort3 uses: Selection Sort
+Random 50000: 3.290s
+sort3 50000: 3.196s
+
+How do you know?: The time between random50000 and sort3 are very similar

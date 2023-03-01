@@ -1,0 +1,20 @@
+#name{
+    font-family: monospace;
+    font-size: 60ps;
+    text-emphasis: bold,;
+    color: blue;
+    opacity: 0.8;
+}
+.about {
+    font-family: Garamond, sans-serif;
+    color: red;
+}
+h1 {
+    color: green;
+}
+li:hover {
+    color: orange;
+}
+h4.about{
+    color: purple;
+}

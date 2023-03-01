@@ -1,0 +1,3 @@
+//get height input from user
+//make sure the user inputs 1-8 or re prompt loop
+//print bricks/hashes then new line
